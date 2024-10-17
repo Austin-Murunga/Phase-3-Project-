@@ -1,4 +1,4 @@
-# **Crop Yield Prediction in India**
+# Crop Yield Prediction in India
 
 ### Business Problem
 
