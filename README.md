@@ -49,3 +49,6 @@ LOW: 110,741
 ### Modeling
 
 Machine learning models such as Linear Regression and Logistic Regression were explored to predict the production levels of crops. The data was split into training and testing sets to build and evaluate the models.
+
+### Summary
+Of the models used, the Decision Tree Model is recommended since it has 100% accuracy as compared to the Logistic Regression model which had a lower accuracy.
